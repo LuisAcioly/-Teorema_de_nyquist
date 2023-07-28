@@ -1,3 +1,4 @@
+% Inicializar parâmetros de frequencia
 fs_in = 50000;
 fs_out = 2000;
 f_min = 50;
